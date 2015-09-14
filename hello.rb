@@ -5,5 +5,5 @@ get '/' do
 end
 
 get '/secret' do
-  'This is a secret page'
+  'This is a secret page and we installed the shotgun gem'
 end
