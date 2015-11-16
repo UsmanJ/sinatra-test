@@ -1,3 +1,4 @@
-# sinatra-test
+Sinatra Test
+========
 
-Testing how sinatra works.
+This repository is just of a basic set-up of Sinatra and testing how it works.
